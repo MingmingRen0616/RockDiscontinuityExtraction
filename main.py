@@ -13,7 +13,7 @@ from utils import *
 import open3d as o3d
 import random
 
-from PlaneSegmentation import iukm
+from ClusteringAnalysis import iukm
 from DBSCAN import idbscan
 from FitPlane import fit_plane
 
