@@ -33,6 +33,4 @@ python main.py \
 More related source code will be updated in the future.
 
 ## 5. Example （video）
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="./video/test.mp4" type="video/mp4">
-</videos>
+The sample video is located at  ```./video/test.mp4.```
