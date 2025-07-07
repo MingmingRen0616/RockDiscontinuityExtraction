@@ -2,15 +2,15 @@
 ## 1. Function
 Automatically extract rock mass orientation information from point cloud data.
 ## 2. File Description
-main.py: Entry point of the program
+- main.py: Entry point of the program
 
-ClusteringAnalysis.py: Orientation group clustering analysis
+- ClusteringAnalysis.py: Orientation group clustering analysis
 
-DBSCAN.py: Rock plane segmentation
+- DBSCAN.py: Rock plane segmentation
 
-FitPlane.py: Plane fitting and orientation extraction for structural surfaces
+- FitPlane.py: Plane fitting and orientation extraction for structural surfaces
 
-utils.py: Utility functions
+- utils.py: Utility functions
 ## 3. Command Line Usage
 ```bash
 python main.py \
