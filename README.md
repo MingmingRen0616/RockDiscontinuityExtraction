@@ -29,5 +29,9 @@ python main.py \
     --save_planes_res {True, False} \
     --save_orientation_res {True, False}
 ```
- ## 4.Updates
- More related source code will be updated in the future.
+## 4.Updates
+More related source code will be updated in the future.
+## 5. Example
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="./video/test.mp4" type="video/mp4">
+</videos>
