@@ -1,0 +1,18 @@
+[2025-07-07 16:55:23,247::logger(27556)::INFO] Output and logs will be saved to: E:\OpenSourceCode\ImprovedUKM\log\Terrace
+[2025-07-07 16:55:23,247::logger(27556)::INFO] Command: main.py --data_set=Terrace --show_planes_res=True
+[2025-07-07 16:55:23,458::logger(27556)::INFO] The number of points is 66518, and cluster centers is 7316
+[2025-07-07 16:55:31,749::logger(27556)::INFO] Clustering analysis  is completed! Elasped time is 8.40098237991333s, and the number of cluster is 6
+[2025-07-07 16:55:36,480::logger(27556)::INFO] The result is saved to E:\OpenSourceCode\ImprovedUKM\results\Terrace\2025-07-07-16-55-23\6_clustering_analysis.txt
+[2025-07-07 16:55:36,499::logger(27556)::INFO] Starting plane segmentation...
+[2025-07-07 16:55:39,133::logger(27556)::INFO] The number of planes of the 0.0-th joint set is 50.
+[2025-07-07 16:55:40,986::logger(27556)::INFO] The number of planes of the 1.0-th joint set is 17.
+[2025-07-07 16:55:42,815::logger(27556)::INFO] The number of planes of the 2.0-th joint set is 24.
+[2025-07-07 16:55:44,562::logger(27556)::INFO] The number of planes of the 3.0-th joint set is 35.
+[2025-07-07 16:55:46,106::logger(27556)::INFO] The number of planes of the 4.0-th joint set is 21.
+[2025-07-07 16:55:47,630::logger(27556)::INFO] The number of planes of the 5.0-th joint set is 16.
+[2025-07-07 16:55:47,717::logger(27556)::INFO] The eclapsed time for plane segmentation is 11.208115100860596s
+[2025-07-07 16:55:48,327::logger(27556)::INFO] The result is saved to E:\OpenSourceCode\ImprovedUKM\results\Terrace\2025-07-07-16-55-23\all_planes.txt
+[2025-07-07 16:56:03,025::logger(27556)::INFO] Starting orientation extraction...
+[2025-07-07 16:56:04,562::logger(27556)::INFO] The eclapsed time for orientation extraction is 1.5373916625976562s
+[2025-07-07 16:56:04,567::logger(27556)::INFO] The result of parameters is saved to E:\OpenSourceCode\ImprovedUKM\results\Terrace\2025-07-07-16-55-23\parameters.txt
+[2025-07-07 16:56:04,567::logger(27556)::INFO] The result og orientations is saved to E:\OpenSourceCode\ImprovedUKM\results\Terrace\2025-07-07-16-55-23\orientations.txt

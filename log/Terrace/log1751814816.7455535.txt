@@ -1,0 +1,4 @@
+[2025-07-06 23:13:36,745::logger(29724)::INFO] Output and logs will be saved to: E:\OpenSourceCode\ImprovedUKM\log\Terrace
+[2025-07-06 23:13:36,745::logger(29724)::INFO] Command: main.py --data_set=Terrace --save_res=True
+[2025-07-06 23:13:43,523::logger(29724)::INFO] Clustering analysis  is completed! Elasped time is 6.665000677108765, and the number of cluster is 5
+[2025-07-06 23:13:48,430::logger(29724)::INFO] The result is saved to E:\OpenSourceCode\ImprovedUKM\results\Terrace\5_1751814823.5242705txt

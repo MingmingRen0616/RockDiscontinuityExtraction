@@ -1,0 +1,17 @@
+[2025-07-07 16:47:02,088::logger(23032)::INFO] Output and logs will be saved to: E:\OpenSourceCode\ImprovedUKM\log\Ouray
+[2025-07-07 16:47:02,088::logger(23032)::INFO] Command: main.py --data_set=Ouray
+[2025-07-07 16:47:02,435::logger(23032)::INFO] The number of points is 66049, and cluster centers is 7265
+[2025-07-07 16:47:10,423::logger(23032)::INFO] Clustering analysis  is completed! Elasped time is 8.140548706054688s, and the number of cluster is 5
+[2025-07-07 16:47:20,012::logger(23032)::INFO] The result is saved to E:\OpenSourceCode\ImprovedUKM\results\Ouray\2025-07-07-16-47-02\5_clustering_analysis.txt
+[2025-07-07 16:47:20,036::logger(23032)::INFO] Starting plane segmentation...
+[2025-07-07 16:47:35,942::logger(23032)::INFO] The number of planes of the 0.0-th joint set is 62.
+[2025-07-07 16:47:37,785::logger(23032)::INFO] The number of planes of the 1.0-th joint set is 85.
+[2025-07-07 16:47:39,824::logger(23032)::INFO] The number of planes of the 2.0-th joint set is 67.
+[2025-07-07 16:47:41,457::logger(23032)::INFO] The number of planes of the 3.0-th joint set is 69.
+[2025-07-07 16:47:43,177::logger(23032)::INFO] The number of planes of the 4.0-th joint set is 63.
+[2025-07-07 16:47:43,346::logger(23032)::INFO] The eclapsed time for plane segmentation is 23.308568716049194s
+[2025-07-07 16:47:44,547::logger(23032)::INFO] The result is saved to E:\OpenSourceCode\ImprovedUKM\results\Ouray\2025-07-07-16-47-02\all_planes.txt
+[2025-07-07 16:47:44,547::logger(23032)::INFO] Starting orientation extraction...
+[2025-07-07 16:47:49,016::logger(23032)::INFO] The eclapsed time for orientation extraction is 4.4676735401153564s
+[2025-07-07 16:47:49,030::logger(23032)::INFO] The result of parameters is saved to E:\OpenSourceCode\ImprovedUKM\results\Ouray\2025-07-07-16-47-02\parameters.txt
+[2025-07-07 16:47:49,030::logger(23032)::INFO] The result og orientations is saved to E:\OpenSourceCode\ImprovedUKM\results\Ouray\2025-07-07-16-47-02\orientations.txt

@@ -1,0 +1,3 @@
+[2025-07-07 16:43:56,571::logger(33164)::INFO] Output and logs will be saved to: E:\OpenSourceCode\ImprovedUKM\log\Terrace
+[2025-07-07 16:43:56,572::logger(33164)::INFO] Command: main.py --data_set=Terrace --show_planes_res=True
+[2025-07-07 16:43:56,799::logger(33164)::INFO] The number of points is 69542, and cluster centers is 5563

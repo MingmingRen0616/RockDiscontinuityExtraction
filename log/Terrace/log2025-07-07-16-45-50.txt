@@ -1,0 +1,21 @@
+[2025-07-07 16:45:50,049::logger(14428)::INFO] Output and logs will be saved to: E:\OpenSourceCode\ImprovedUKM\log\Terrace
+[2025-07-07 16:45:50,049::logger(14428)::INFO] Command: main.py --data_set=Terrace --show_planes_res=True
+[2025-07-07 16:45:50,345::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:45:55,451::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:45:57,827::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:01,057::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:03,428::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:06,463::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:09,776::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:12,875::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:16,006::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:19,022::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:22,036::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:24,778::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:27,503::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:30,184::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:32,986::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:35,612::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:38,380::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:41,023::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
+[2025-07-07 16:46:43,804::logger(14428)::INFO] The number of points is 69542, and cluster centers is 5563
