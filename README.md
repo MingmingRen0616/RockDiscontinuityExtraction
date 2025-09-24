@@ -34,3 +34,6 @@ More related source code will be updated in the future.
 
 ## 5. Example （video）
 The sample video is located at  ```./video/test.mp4.```
+
+## Please cite our paper when using this code.
+Ren, M., Hu, J., Peng, D., Ding, Y., & He, M. (2025). Automatic extraction of rock discontinuity orientations from 3D point clouds via an adaptive clustering and surface fitting approach. International Journal of Rock Mechanics and Mining Sciences, 194, 106246.
